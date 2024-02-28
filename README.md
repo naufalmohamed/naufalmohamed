@@ -1,7 +1,6 @@
 ![MasterHead](https://ardas-it.com/uploads/images/blogs/giph.gif)
 <h1 align="center">Hi 👋, I'm Naufal</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **mohammednaufal2603@gmail.com**
 
 - ⚡ Fun fact **The first computer programmer was a woman named Ada Lovelace, who wrote code in the 1840s before computers were even built. So, yeah, women were coding before it was cool!**
